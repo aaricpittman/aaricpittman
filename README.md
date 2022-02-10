@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Aaric. 👋
+
+### I'm a software engineer at [ClickFunnels](https://www.clickfunnels.com/).
+
+### Connect with me:
+
+[Website][website]
+[LinkedIn][linkedin]
+[Twitter][twitter]
+
+[linkedin]: https://www.linkedin.com/in/aaricpittman/
+[twitter]: https://twitter.com/aaricpittman
+[website]: https://aaricpittman.com
 
 <!--
 **aaricpittman/aaricpittman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
