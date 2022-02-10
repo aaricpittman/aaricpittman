@@ -4,12 +4,14 @@
 
 ### Connect with me:
 
-[![Website](./imgs/globe-light.svg#gh-dark-mode-only")][website]
-[![Website](./imgs/globe-dark.svg#gh-light-mode-only")][website]
-[![LinkedIn](./imgs/linkedin-light.svg#gh-light-mode-only")][linkedin]
-[![LinkedIn](./imgs/linkedin-dark.svg#gh-dark-mode-only")][linkedin]
-[![Twitter](./imgs/twitter-square-light.svg#gh-light-mode-only")][twitter]
-[![Twitter](./imgs/twitter-square-dark.svg#gh-dark-mode-only")][twitter]
+[![Website](./imgs/globe-light.svg)](https://aaricpittman.com#gh-dark-mode-only)
+[![Website](./imgs/globe-dark.svg)](https://aaricpittman.com#gh-light-mode-only)
+&nbsp;&nbsp;
+[![LinkedIn](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/aaricpittman/#gh-dark-mode-only)
+[![LinkedIn](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/aaricpittman/#gh-light-mode-only)
+&nbsp;&nbsp;
+[![Twitter](./imgs/twitter-square-light.svg)](https://twitter.com/aaricpittman#gh-dark-mode-only)
+[![Twitter](./imgs/twitter-square-dark.svg)](https://twitter.com/aaricpittman#gh-light-mode-only)
 
 [linkedin]: https://www.linkedin.com/in/aaricpittman/
 [twitter]: https://twitter.com/aaricpittman
